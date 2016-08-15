@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Calcu</string>
+
+    <string name="classic_button">Classic</string>
+    <string name="new_game">New Game</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="number_box_intial_val">Click Go!</string>
+    <string name="number_box_go">Go</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+</resources>
